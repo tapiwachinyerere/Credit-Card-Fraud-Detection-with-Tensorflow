@@ -15,7 +15,6 @@ This repository is dedicated to the development of a Credit Card Fraud Detection
 - [Future Work](#future-work)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 
@@ -84,8 +83,12 @@ Future enhancements to the project may include:
 
 ## Usage
 
-1. Clone the repository: git clone https://github.com/tapiwachinyerere/credit-card-fraud-detection.git
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/tapiwachinyerere/credit-card-fraud-detection.git
 
-2. Install dependencies: pip install -r requirements.txt
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
 
-3. 3. Run the Jupyter notebook to reproduce the analysis and results.
+3. Run the Jupyter notebook to reproduce the analysis and results.
